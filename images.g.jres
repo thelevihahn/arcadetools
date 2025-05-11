@@ -1,13 +1,48 @@
 {
-    "image1": {
-        "data": "hwQgABAAAAAAiIiIiIiIAICIiIiIiIgIiIiIiIiIiIiIiP+PiI+IiIiIj/iIj4iIiIiPiP+PiIiIiIiIiIiIiIiIj4iIiIiIiIiPiIiIiIiIiP///4+IiIiIj4iIiIiIiIiPiIiIiIiIiIiIiIiIiIiIiPj/j4iIiIj4j4+IiIiIiI+Ij4iIiIiI+I+PiIiIiIiI+P+PiIiIiIiIiIiIiIiI////j4iIiIiP+IiIiIiIiI/4j4iIiIiI+I/4j4iIiIiIiIiIiIiIiI+IiIiIiIiIj4iIiIiIiIj///+PiIiIiI+IiIiIiIiIj4iIiIiIiIiIiIiIiIiAiIiIiIiICACIiIiIiIgA",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "StartBtn"
-    },
     "image2": {
         "data": "hwQgABAAAAAAZmZmZmZmAGBmZmZmZmYGZmZmZmZmZmZmZv9vZm9mZmZmb/Zmb2ZmZmZvZv9vZmZmZmZmZmZmZmZmb2ZmZmZmZmZvZmZmZmZmZv///29mZmZmb2ZmZmZmZmZvZmZmZmZmZmZmZmZmZmZmZvb/b2ZmZmb2b29mZmZmZm9mb2ZmZmZm9m9vZmZmZmZm9v9vZmZmZmZmZmZmZmZm////b2ZmZmZv9mZmZmZmZm/2b2ZmZmZm9m/2b2ZmZmZmZmZmZmZmZm9mZmZmZmZmb2ZmZmZmZmb///9vZmZmZm9mZmZmZmZmb2ZmZmZmZmZmZmZmZmZgZmZmZmZmBgBmZmZmZmYA",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "StartBtn0"
+    },
+    "image3": {
+        "data": "hwQgABAAAAAAZmZmZmZmAGBmZv9vZmYGZmb2ZvZmZmZmZvZm9mZmZmZmZv9vZmZmZmZmZmZmZmZmZvb//2ZmZmZm9mZvZmZmZmZm/2ZmZmZmZmZmZmZmZmZm9mZmZmZmZmb2//9mZmZmZvZmZmZmZmZmZmZmZmZmZmb2ZvZmZmZmZvb//2ZmZmZm9mb2ZmZmZmZmZmZmZmZmZmb/b2ZmZmZm9mb2ZmZmZmb2ZvZmZmZmZmb/b2ZmZmZmZmZmZmZmZmb2//9mZmZmZmZvZmZmZmZmZvZmZmZmZmb2//9mZmZmZmZmZmZmZmZmZm/2ZmZmZmb29vZmZmZgZvZmb2ZmBgBmZmZmZmYA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "OptionsBtn0"
+    },
+    "image4": {
+        "data": "hwQgABAAAAAAiIiIiIiIAICIiP+PiIgIiIj4iPiIiIiIiPiI+IiIiIiIiP+PiIiIiIiIiIiIiIiIiPj//4iIiIiI+IiPiIiIiIiI/4iIiIiIiIiIiIiIiIiI+IiIiIiIiIj4//+IiIiIiPiIiIiIiIiIiIiIiIiIiIj4iPiIiIiIiPj//4iIiIiI+Ij4iIiIiIiIiIiIiIiIiIj/j4iIiIiI+Ij4iIiIiIj4iPiIiIiIiIj/j4iIiIiIiIiIiIiIiIj4//+IiIiIiIiPiIiIiIiIiPiIiIiIiIj4//+IiIiIiIiIiIiIiIiIiI/4iIiIiIj4+PiIiIiAiPiIj4iICACIiIiIiIgA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "OptionsBtn1"
+    },
+    "image5": {
+        "data": "hwQgABAAAAAAZmZmZmZmAGBmZmZmZmYGZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZm//9vZmZmZmZmZm9mZmZmZmZmb2ZmZmZmZmZvZmZmZmZmZmZmZmZmZvb/ZmZmZmZmb2ZvZmZmZmZvZm9mZmZmZvb/ZmZmZmZmZmZmZmZmZmZmZmZmZmZmZvb/b2ZmZmZmb/ZmZmZmZmZv9mZmZmZmZvb/b2ZmZmZmZmZmZmZmZmb//29mZmZmZm9mb2ZmZmZmb2ZvZmZmZmb2/2ZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZgZmZmZmZmBgBmZmZmZmYA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "LoadBtn0"
+    },
+    "image6": {
+        "data": "hwQgABAAAAAAiIiIiIiIAICIiIiIiIgIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiI//+PiIiIiIiIiI+IiIiIiIiIj4iIiIiIiIiPiIiIiIiIiIiIiIiIiPj/iIiIiIiIj4iPiIiIiIiPiI+IiIiIiPj/iIiIiIiIiIiIiIiIiIiIiIiIiIiIiPj/j4iIiIiIj/iIiIiIiIiP+IiIiIiIiPj/j4iIiIiIiIiIiIiIiIj//4+IiIiIiI+Ij4iIiIiIj4iPiIiIiIj4/4iIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiAiIiIiIiICACIiIiIiIgA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "LoadBtn1"
+    },
+    "image1": {
+        "data": "hwQgABAAAAAAZmZmZmZmAGBmZmZmZmYGZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZm9v9mZmZmZmZvZm9mZmZmZm9vb2b2//9mb/9mZmZvZmZmZmZmZvZmZvb/b2b2//9mb/ZmZmZmZmZv9mZm9v//Zvb/b2b29vZmZmZmZvZm9mb2/29mZmZmZm9mZmb2/29m9v9mZmZm9mZvZmZmZmZvZvb/b2ZmZvZmZmZmZvb/b2b//29mZmZmZm9vb2ZmZmZmb2ZvZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZgZmZmZmZmBgBmZmZmZmYA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "NewGameBtn0"
+    },
+    "image7": {
+        "data": "hwQgABAAAAAAiIiIiIiIAICIiIiIiIgIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiI+P+IiIiIiIiPiI+IiIiIiI+Pj4j4//+Ij/+IiIiPiIiIiIiIiPiIiPj/j4j4//+Ij/iIiIiIiIiP+IiI+P//iPj/j4j4+PiIiIiIiPiI+Ij4/4+IiIiIiI+IiIj4/4+I+P+IiIiI+IiPiIiIiIiPiPj/j4iIiPiIiIiIiPj/j4j//4+IiIiIiI+Pj4iIiIiIj4iPiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiAiIiIiIiICACIiIiIiIgA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "NewGameBtn1"
+    },
+    "image8": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "StartBtn1"
+    },
+    "image9": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "StartBtn2"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",

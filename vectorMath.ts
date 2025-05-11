@@ -13,7 +13,7 @@ namespace Math {
         zero: { x: 0, y: 0 },
         one: { x: 1, y: 1 },
 
-        // Optional: utility functions
+        // Utility functions
         add: (a: Vector2, b: Vector2): Vector2 => ({ x: a.x + b.x, y: a.y + b.y }),
         sub: (a: Vector2, b: Vector2): Vector2 => ({ x: a.x - b.x, y: a.y - b.y }),
         scale: (v: Vector2, s: number): Vector2 => ({ x: v.x * s, y: v.y * s }),
