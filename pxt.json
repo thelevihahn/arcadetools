@@ -11,9 +11,7 @@
         "assets.json",
         "text.ts",
         "menus.ts",
-        "vectorMath.ts",
-        "images.g.jres",
-        "images.g.ts"
+        "vectorMath.ts"
     ],
     "testFiles": [
         "test.ts"
