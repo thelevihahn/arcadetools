@@ -153,10 +153,8 @@ namespace menus {
                  */
             }
 
-            // Track new button
             const nextButton: Button = this.buttons[this.currentBtnIndex];
 
-            //If using sprite cursor
             if (this.cursorSprite) {
                 this.cursorSprite.setPosition(nextButton.sprite.x, nextButton.sprite.y);
             }
@@ -186,8 +184,7 @@ namespace menus {
             }
         }
 
-        // Function to confirm the selection of the currently selected button
-        confirm() {
+        select() {
             if (!this.active) return;
 
             const currentBtn: Button = this.buttons[this.currentBtnIndex];
@@ -195,7 +192,6 @@ namespace menus {
             currentBtn.select();
         }
 
-        // Function to show the Menu
         show() {
             this.active = true;
             for (let btn of this.buttons) {
@@ -204,7 +200,6 @@ namespace menus {
             if (this.cursorSprite) this.cursorSprite.setFlag(SpriteFlag.Invisible, false);
         }
 
-        // Function to hide the Menu
         hide() {
             this.active = false;
             for (let btn of this.buttons) {
@@ -213,7 +208,6 @@ namespace menus {
             if (this.cursorSprite) this.cursorSprite.setFlag(SpriteFlag.Invisible, true);
         }
 
-        // Function to destroy the menu and clean up
         destroy() {
             for (let btn of this.buttons) {
                 btn.destroy();
@@ -225,7 +219,6 @@ namespace menus {
         }
     }
 
-    // Function to create a menu
     export function createMenu(): Menu {
         return new Menu();
     }
